@@ -1,5 +1,12 @@
 # Changelog
 
+## [7.24.1](https://github.com/snakemake/snakemake/compare/v7.24.0...v7.24.1) (2023-03-07)
+
+
+### Bug Fixes
+
+* better job status queries for slurm executor  ([#2136](https://github.com/snakemake/snakemake/issues/2136)) ([a4df38c](https://github.com/snakemake/snakemake/commit/a4df38c56e935dde9c2745bed6afc13e1fed671f))
+
 ## [7.24.0](https://github.com/snakemake/snakemake/compare/v7.23.1...v7.24.0) (2023-03-01)
 
 
